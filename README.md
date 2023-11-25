@@ -1,6 +1,7 @@
 # LXD en Ubuntu
 
 - [ ] [videotuto](https://www.youtube.com/watch?v=Kk1B4BF9xXI)
+- [ ] [digitalocean](https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-lxd-on-ubuntu-20-04)
 - [ ] de mohamed: https://youtu.be/oPAsuwJwl5A?si=DFETUz03AIsDK32Y 
 
 Guardado `lxd.init.log.yaml`
